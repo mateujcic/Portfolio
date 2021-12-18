@@ -1,0 +1,63 @@
+$navbarHeight:4.5rem;
+
+body {
+  background-color: rgb(246, 251, 255);
+  // margin-top: $navbarHeight;
+}
+
+.header-container {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr 3.2fr 0.2fr 0.7fr;
+  grid-template-rows: 0.8fr 2.6fr 0.8fr;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    ". . . ."
+    ". header header ."
+    ". . . .";
+  margin-top: 2.5rem;
+}
+
+.header {
+  display: grid;
+  grid-template-columns: 2.1fr 0.4fr 0.5fr;
+  grid-template-rows: 1.3fr 0.8fr 0.9fr;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "title title ."
+    ". . ."
+    "subtitle . .";
+  grid-area: header;
+}
+
+.title {
+  grid-area: title;
+}
+
+.subtitle {
+  grid-area: subtitle;
+}
+
+
+.title-style {
+  font-size: 4rem;
+  font-weight: 500;
+}
+
+.title-description-style{
+  font-weight: 500;
+  font-size: 1.25rem;
+  letter-spacing: 0.1rem;
+  text-align: justify;
+}
+
+.subtitle-style{
+  line-height: 1.75rem;
+  font-weight: 500;
+  font-size: 1.25rem;
+  letter-spacing: 0.1rem;
+  text-align: justify;
+}

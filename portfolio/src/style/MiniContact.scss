@@ -1,0 +1,23 @@
+.contact-container {
+    position: fixed;
+    background-color: rgb(202, 202, 202);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 9999;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+
+.minicontact-content {
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    padding: 1rem;
+    word-wrap: break-word;
+}
+
+.minicontact-content > p {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+
+}
