@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.bf45a91a.chunk.css",
-    "main.js": "/Portfolio/static/js/main.1d3b5484.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.1d3b5484.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.eb6781d5.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.eb6781d5.js.map",
-    "static/js/2.01a390f9.chunk.js": "/Portfolio/static/js/2.01a390f9.chunk.js",
-    "static/js/2.01a390f9.chunk.js.map": "/Portfolio/static/js/2.01a390f9.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.2b37c3d1.css",
+    "main.js": "/Portfolio/static/js/main.a018986c.js",
+    "static/media/home1Globe.png": "/Portfolio/static/media/home1Globe.190aeaf0f452cc42d143.png",
+    "static/media/zest.png": "/Portfolio/static/media/zest.9088bb419dbcebb3a3a5.png",
+    "static/media/screen5.PNG": "/Portfolio/static/media/screen5.829fb1e6c6e759552137.PNG",
+    "static/media/home1Tea.png": "/Portfolio/static/media/home1Tea.d20dae76a11be9b146ac.png",
+    "static/media/home1Coffee.png": "/Portfolio/static/media/home1Coffee.887fbf3037f4c0d6d183.png",
+    "static/media/home1rit.png": "/Portfolio/static/media/home1rit.3fb113747593de57198b.png",
+    "static/media/screen1.PNG": "/Portfolio/static/media/screen1.16f0f0dc5cdc58274e58.PNG",
+    "static/media/tes.png": "/Portfolio/static/media/tes.7842fd0ab80fae6ad0b4.png",
+    "static/media/favorita2.png": "/Portfolio/static/media/favorita2.365b39ed6f4f3eb82d61.png",
+    "static/media/terrorism.png": "/Portfolio/static/media/terrorism.6f485a7fa1917ed8ed13.png",
+    "static/media/AvertaStd-Regular.ttf": "/Portfolio/static/media/AvertaStd-Regular.bff500d7e76a1dab42d1.ttf",
+    "static/media/AvertaStd-SemiboldItalic.ttf": "/Portfolio/static/media/AvertaStd-SemiboldItalic.c69f7b14ffb89a0f27fd.ttf",
+    "static/media/favorita1.png": "/Portfolio/static/media/favorita1.e89f9dcf9a67665fc9bb.png",
+    "static/media/AvertaStd-Bold.ttf": "/Portfolio/static/media/AvertaStd-Bold.035345d433cff7977a3f.ttf",
+    "static/media/AvertaStd-Semibold.ttf": "/Portfolio/static/media/AvertaStd-Semibold.5ee418c0f1bf9fd58510.ttf",
+    "static/media/AvertaStd-ExtraBold.ttf": "/Portfolio/static/media/AvertaStd-ExtraBold.daec31b66a145b324463.ttf",
+    "static/media/AvertaStd-Black.ttf": "/Portfolio/static/media/AvertaStd-Black.20cb0a9fd909526a99a8.ttf",
     "index.html": "/Portfolio/index.html",
-    "static/css/main.bf45a91a.chunk.css.map": "/Portfolio/static/css/main.bf45a91a.chunk.css.map",
-    "static/js/2.01a390f9.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.01a390f9.chunk.js.LICENSE.txt",
-    "static/media/Home.scss": "/Portfolio/static/media/AvertaStd-SemiboldItalic.c69f7b14.ttf",
-    "static/media/NavStyle.scss": "/Portfolio/static/media/AvertaStd-ExtraBold.daec31b6.ttf",
-    "static/media/home1Coffee.png": "/Portfolio/static/media/home1Coffee.887fbf30.png",
-    "static/media/home1Globe.png": "/Portfolio/static/media/home1Globe.190aeaf0.png",
-    "static/media/home1Tea.png": "/Portfolio/static/media/home1Tea.d20dae76.png",
-    "static/media/home1rit.png": "/Portfolio/static/media/home1rit.3fb11374.png",
-    "static/media/screen1.PNG": "/Portfolio/static/media/screen1.16f0f0dc.PNG",
-    "static/media/screen5.PNG": "/Portfolio/static/media/screen5.829fb1e6.PNG",
-    "static/media/zest.png": "/Portfolio/static/media/zest.9088bb41.png"
+    "main.2b37c3d1.css.map": "/Portfolio/static/css/main.2b37c3d1.css.map",
+    "main.a018986c.js.map": "/Portfolio/static/js/main.a018986c.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb6781d5.js",
-    "static/js/2.01a390f9.chunk.js",
-    "static/css/main.bf45a91a.chunk.css",
-    "static/js/main.1d3b5484.chunk.js"
+    "static/css/main.2b37c3d1.css",
+    "static/js/main.a018986c.js"
   ]
 }
