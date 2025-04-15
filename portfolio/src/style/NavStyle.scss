@@ -5,3 +5,19 @@
   transition: 0.5s;
   transform: scaleY(1.05);
 }
+
+@font-face {
+  font-family: 'Averta-ExtraBold';
+  src: local('Averta'), url(./fonts/averta/AvertaStd-ExtraBold.ttf) format('truetype');
+}
+
+.link{
+  color: #272727;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  padding: 0 1rem;
+  height: 100%;
+  cursor: pointer;
+  font-family: Averta-ExtraBold;
+}
