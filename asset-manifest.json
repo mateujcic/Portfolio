@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.2b37c3d1.css",
-    "main.js": "/Portfolio/static/js/main.a018986c.js",
+    "main.js": "/Portfolio/static/js/main.8e325efd.js",
     "static/media/home1Globe.png": "/Portfolio/static/media/home1Globe.190aeaf0f452cc42d143.png",
     "static/media/zest.png": "/Portfolio/static/media/zest.9088bb419dbcebb3a3a5.png",
     "static/media/screen5.PNG": "/Portfolio/static/media/screen5.829fb1e6c6e759552137.PNG",
@@ -12,6 +12,7 @@
     "static/media/tes.png": "/Portfolio/static/media/tes.7842fd0ab80fae6ad0b4.png",
     "static/media/favorita2.png": "/Portfolio/static/media/favorita2.365b39ed6f4f3eb82d61.png",
     "static/media/terrorism.png": "/Portfolio/static/media/terrorism.6f485a7fa1917ed8ed13.png",
+    "static/media/social.png": "/Portfolio/static/media/social.35d6db04e15516ce4817.png",
     "static/media/AvertaStd-Regular.ttf": "/Portfolio/static/media/AvertaStd-Regular.bff500d7e76a1dab42d1.ttf",
     "static/media/AvertaStd-SemiboldItalic.ttf": "/Portfolio/static/media/AvertaStd-SemiboldItalic.c69f7b14ffb89a0f27fd.ttf",
     "static/media/favorita1.png": "/Portfolio/static/media/favorita1.e89f9dcf9a67665fc9bb.png",
@@ -21,10 +22,10 @@
     "static/media/AvertaStd-Black.ttf": "/Portfolio/static/media/AvertaStd-Black.20cb0a9fd909526a99a8.ttf",
     "index.html": "/Portfolio/index.html",
     "main.2b37c3d1.css.map": "/Portfolio/static/css/main.2b37c3d1.css.map",
-    "main.a018986c.js.map": "/Portfolio/static/js/main.a018986c.js.map"
+    "main.8e325efd.js.map": "/Portfolio/static/js/main.8e325efd.js.map"
   },
   "entrypoints": [
     "static/css/main.2b37c3d1.css",
-    "static/js/main.a018986c.js"
+    "static/js/main.8e325efd.js"
   ]
 }
