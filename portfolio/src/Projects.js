@@ -13,6 +13,7 @@ import favorita1 from './media/images/screenshots/favorita1.png'
 import favorita2 from './media/images/screenshots/favorita2.png'
 import tes from './media/images/screenshots/tes.png'
 import terrorism from './media/images/screenshots/terrorism.png'
+import social from './media/images/screenshots/social.png'
 
 export default function Projects() {
   return (
@@ -25,6 +26,30 @@ export default function Projects() {
 
       <div className="project-instances">
         <h2 className="title">Data Science</h2>
+        <div className="project" id="social">
+          <div className="screenshot-container">
+            <img
+              className="project-screenshot"
+              src={social}
+              alt="Social Media Project"
+            />
+          </div>
+          <div className="content-container">
+            <p className="project-type">University project</p>
+            <p className="project-title">Social Media Impact Analysis</p>
+            <p className="project-description">
+              Analyzed social media campaign data for VitalityBoost Tech to identify engagement trends and optimize strategies using an interactive dashboard.
+            </p>
+            <div className="technologies">
+              <p>PowerBI</p>
+            </div>
+            <div className="button-container">
+              <p className="project-link button">
+                <a href="https://app.powerbi.com/reportEmbed?reportId=9bb7b1fd-365a-41cb-919b-614b0eda18b1&autoAuth=true&ctid=1eb34f73-38dd-42db-98db-53b54e749d52&pageName=ReportSection">Preview</a>
+              </p>
+            </div>
+          </div>
+        </div>
         <div className="project" id="favorita1">
           <div className="screenshot-container">
             <img
@@ -91,7 +116,7 @@ export default function Projects() {
             />
           </div>
           <div className="content-container">
-            <p className="project-type">School project</p>
+            <p className="project-type">University project</p>
             <p className="project-title">Global Terrorism Analysis</p>
             <p className="project-description">
               This project analyzes global terrorism trends from 1970 to 2020, with a focus on attack frequency, geographic distribution, and casualty metrics.
