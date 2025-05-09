@@ -37,12 +37,12 @@ export default function Navbar() {
         duration={500}
         className="link"
         activeClass="some-active-class">Contact</Link>
-      <Link to="resume"
+      {/* <Link to="resume"
         spy={true}
         smooth={true}
         duration={500}
         className="link"
-        activeClass="some-active-class">Resume</Link>
+        activeClass="some-active-class">Resume</Link> */}
     </Nav>
   );
 }
