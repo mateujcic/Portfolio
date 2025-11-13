@@ -15,10 +15,10 @@ function Home() {
             Welcome to my portfolio website! Here you can find some of my projects, contact info, and my resume.
             </p>
           </div>
-          <div className="subtitle">
+          {/* <div className="subtitle">
             <p className="subtitle-style">
             I'm currently pursuing a master's degree in Data Science, building on a bachelor's in Information Technology.            </p>
-          </div>
+          </div> */}
         </div>
       </div>
       <div className="projects-container">
